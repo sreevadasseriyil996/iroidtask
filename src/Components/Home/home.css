@@ -1,0 +1,30 @@
+.child-div{
+    border: 2px solid #f4f4f4;
+    border-radius: 10px;
+    padding: 10px ;
+    margin: 5px;
+    
+    
+    margin-left: 180px;
+    position: relative;
+    text-align: center;
+    
+}
+img{
+  
+     
+    width:100px;
+    height:80px;
+}
+.search{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #f3eeee;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: 10px 10px 8px #f1efef;
+    
+  }
